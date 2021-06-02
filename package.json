@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/juancho11gm/webpack-demo-app#readme",
   "devDependencies": {
+    "bootstrap": "^5.0.1",
     "css-loader": "^5.2.6",
+    "node-sass": "^6.0.0",
+    "sass-loader": "^12.0.0",
     "style-loader": "^2.0.0",
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.0"
